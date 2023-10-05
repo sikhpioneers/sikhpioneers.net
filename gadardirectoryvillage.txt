@@ -1,0 +1,319 @@
+Village	Name	District	Father's Name
+Adekali	"Harnam Singh, Giani"	Jullundur	Ganga Ram
+Akhara	Ishar Singh	Ludhiana	Karam Singh
+Alamwala	Ishar Singh	Ferozepore	
+Amritsar	Acchar Singh Sheena	Amritsar	
+Amritsar	"Amar Singh, Mehra"	Amritsar	
+Amritsar	Ishar Singh	Amritsar	
+Amritsar	Sher Singh Wein Puin	Amritsar	
+Apra	Hans Raj	Jullundur	Nagina Mal
+Atiana	Indar Singh	Ludhiana	Narain Singh
+Aulakh	"Sohan Lal, Bhai"	Jullundur	Lachman Das
+Badala	Kartar Singh	Amritsar	Hari Singh
+Baddowal	"Hari Singh, Jat"	Ludhiana	Gurdit Singh
+Baddowal	"Rakha Singh, Grewal"	Ludhiana	Chanda Singh
+Bahowal	Harnam Singh	Hoshiarpur	Hira Singh
+Banga	"Labhu Ram, Subra"	Jullundur	Kanshi Ram
+Bange	Ram Prasad	Hoshiarpur	Ganga Bishan
+Barapind	Milkha Singh	Jullundur	Harnam Singh
+Barian Kalan	Diwan Singh	Hoshiarpur	Biru Singh
+Barikab	Khushal Khan	Peshawar	Sher Muhammad
+Basra	Hari Singh	Sialkot	Chaudri Sham Das
+Bela	Sajjan Singh	Patiala	Khazan Singh
+Bhaini	Kishan Singh	Ludhiana	
+Bhakna Kalan	"Sohan Singh Bhakna, Baba"	Amritsar	Karam Singh
+Bhasin	Jagat Singh	Lahore	Ganda Singh
+Bhikhiwind	Bhag Singh-Bhai	Lahore	
+Biharan	Chet Singh	Hoshiarpur	Ram Ditta
+Bilga	Chhaju Ram	Jullundur	Puran Singh
+Bilga	Hazara Singh	Jullundur	Ram Singh
+Bilga	Rajoo Singh	Jullundur	Ganda Singh
+Birpind	Bawa Singh	Jullundur	Jagat Singh
+Birpind	Dalip Singh	Jullundur	Mihan Singh
+Birpind	Khazan Singh	Jullundur	Jotu Singh
+Bundala	Gulzara Singh	Jullundur	Hardit Singh
+Bundala	"Harbans Singh, Basi"	Jullundur	
+Burjraike	Bishan Singh	Amritsar	Jiwan Singh
+Chahar Chak	Kanshi Ram Pandit Marouli	Ferozepore	Sita Ram
+Chahjal	Dalip Singh Saund	Amritsar	Natha Singh
+Chak Ramon	Bawa Singh	Jullundur	
+Chand Jadid	Kartar Singh	Ferozepore	Sundar Singh
+Chiman Kalan	"Karam Singh, Chima"	Jullundur	Gujar Singh
+Chiman Kalan	Lakha Singh	Jullundur	Sandhi Singh
+Chola	Hardit Singh	Amritsar	Sohel Singh
+Chuga	Chanan Singh	Ferozepore	Ram Singh
+Chuga Kalan	Fazal Din	Ferozepore	Ghaus Mohammad
+Chuhar Chak	Rur Singh	Ferozepore	Attar Singh
+Chuhar Chak	"Sudh Singh, Bhai"	Ferozepore	Chanda Singh
+Daduwal	Naurang Singh	Hoshiarpur	
+Dalewal	Harnam Singh	Jullundur	
+Dhada	Gurbachan SinghDhada	Hoshiarpur	
+Dhada Katan	Dasaundha Singh	Hoshiarpur	
+Dhakowal	Dalip Singh	Hoshiarpur	Narian Singh
+Dhaliwal	"Sohan Singh ""Yachak"""	Jullundur	Vir Bhan
+Dhand Kasel	Pritam Singh	Amritsar	
+Dhapin	Waryam Singh	Kapurthala	Wazir Singh
+Dhudeke	Pakhar Singh	Ferozepore	Bhan Singh
+Dhurial	Iqbal Singh Hundal	Jullundur	Hakim Singh
+Dhurial	Jiwan Singh	Jullundur	Rajindar Singh
+Dhusarab	Amin Chand Sharma	Hoshiarpur	Nand Lal
+Dhut	Karam Singh	Kapurthala	Ganga Singh
+Dhut Kalan	Padha Singh	Kapurthala	Takht Singh
+Dhut Kalan	Shiv Singh	Kapurthala	
+Dhut Kalan	Sohan Singh	Kapurthala	Samittar Singh
+Dodher	"Wasakha Singh, Baba"	Amritsar	Dyal Singh
+Dosanjh Kalan	Bhagwan Singh-Bhai	Jullundur	Dewa Singh
+Durial	Atma Singh	Jullundur	Hakim Singh
+Dusanj	Indiar Singh	Jullundur	
+Dyal	Gopal Singh	Hoshiarpur	Tani Singh
+Gahor	Kishan Singh	Ludhiana	Rattan Singh
+Gandiwind	Santa Singh	Amritsar	Vir Singh
+Garcha	Kartar Singh	Jullundur	
+Ghall Kalan	Hari Singh	Ferozepore	Baran Singh
+Ghall Kalan	Kirpal Singh	Ferozepore	Vir Singh
+Ghamiala	Joga Singh	Hoshiarpur	
+Ghurka	Babu Khan	Jullundur	Kande Khan
+Goram	"Ishar Singh, ""Gunam"""	Ludhiana	Sahib Singh
+Govindpur	Babu Singh	Hoshiarpur	
+Gurdit Singh	Jagat SinghKandola	Jullundur	
+Guria	Jawala Singh	Jullundur	"Nihala Singh, Jat"
+Hadiabad	Gardas Ram	Kapurthala	Gonda Mal
+Halluwal	Ram Singh	Hoshiarpur	Sahib Singh
+Haluwal	Harnam Singh	Hoshiarpur	
+Hariana	Jagat Ram	Hoshiarpur	Ditta Ram
+Haripur	Amar Singh	Jullundur	Sundar Singh
+Harkhowal	Indar Singh	Hoshiarpur	Fateh Singh
+Hoshiarpur	Ajmer Singh	Hoshiarpur	"Harnam Singh, Jat"
+Hoshiarpur	Umrao SinghMahilpur	Jowahir Singh	
+Jadla	Madhu Ram	Jullundur	Kesho Chand
+Jagdeo Kalan	"Gursaran Singh, Gill"	Amritsar	Faujdar Singh
+Jagdev Kalan	Pala Singh	Amritsar	Sundar Singh
+Jain	Basant Singh	Hoshiarpur	Sundar Singh
+Jaja	Ishar Singh	Hoshiarpur	Shajoo Singh
+Jaman	Bagga Singh Bhullar	Lahore	Hira Singh
+Jamastpura	Hukam Singh	Amritsar	
+Jamsher	Thakur Singh	Jullundur	Jhandu Singh
+Jandiala	Bakhshish Chand	Jullundur	Sondhi Ram
+Jandiala	Gurbachan Singh	Jullundur	
+Jandiala	Munsha Singh	Jullundur	Nihal Singh
+Jandiala	Puran Singh	Jullundur	Indar Singh
+Jandoli	Hazara Singh	Hoshiarpur	Mihan Singh
+Jandoli	Ishar Singh	Hoshiarpur	Buta Singh
+Jandu Singha	Rajinder Singh	Jullundur	Thakur Singh
+Janetpura	"Hazara Singh, Hamdan"	Ludhiana	
+Jassowal	Natha Singh	Garshankar	Hardit Singh
+Jauhal	Hakim Singh	Amritsar	
+Jhapal	"Anup Singh, Dhillon"	Lyllapore	
+Jhingar	Arjan Singh	Jullundur	Jawala Singh
+Jhingar	Bachan Singh	Jullundur	
+Jhingar	Gurdial Singh	Jullundur	
+Jhingar	Nagina Singh	Jullundur	Jowala Singh
+Jhingran	Kartar Singh	Jullundur	Gurdit Singh
+Jindpur	Dalip Singh	Hoshiarpur	
+Jindwal	Ralla Singh	Jullundur	Dewa Singh
+Jullundur	Banta Singh	Jullundur	
+Jullundur	Gurdit Singh	Jullundur	
+Kacha Pakka	Teja Singh	Lahore	Narain Singh
+Kalewal Bhagtan	Battan Singh	Hoshiarpur	Nihal Singh
+Kandola	Malla Singh	Jullundur	Bogha Singh
+Kanech	Bir Singh Bhandal	Ludhiana	
+Karadlu	Godha Ram	Shahpur	Channa Ram
+Karyala	"Parma Nand, Bhai"	Jhelum	Tara Chand Chhibar
+Khan Khanan	Jawala Singh	Jullundur	Kahan Singh
+Khanoe	Kapur Singh	Amritsar	Ala Singh
+Khanpur	Hukam Singh	Jullundur	Ram Singh
+Kharaudi	Asa Singh	Hoshiarpur	Uttam Singh
+Kharaudi	Bishan Singh	Hoshiarpur	Ganga Singh
+Kharaudi	Ganga Singh	Hoshiarpur	Attar Singh
+Kharaudi	Kapur Singh	Hoshiarpur	Sham Singh
+Kharaudi	Tara Singh	Hoshiarpur	Sham Singh
+Khem Karan	"Ramnath, Puri"	Lahore	Jawala Mal
+Khera	Ishar Singh	Khera	
+Khotar	Muhammad Ali	Jullundur	Nathu Singh
+Khurpur	Lachman Singh	Jullundur	Indar Singh
+Kirtowal	Ishar Singh	Lahore	Buta Singh
+Kot Fatuhi	Hardit Singh	Hoshiarpur	Ganga Singh
+Kot Fatuhi	Raja Singh	Hoshiarpur	Maya Singh
+Kothi	Lachman Singh	Hoshiarpur	Phina
+Kotla	Bishan Singh Talanga	Hoshiarpur	
+Kotla	Ghulam Muhammad Hafiz	Jullundur	
+Kotla Nand Singh	"Harnam Singh, Tunda"	Hoshiarpur	Gurdit Singh
+Kotli	Arur Singh	Jullundur	Mihan Singh
+Kukar	Waryam Singh	Hoshiarpur	Narain Singh
+Lakhpu	Surjan Singh	Kapurthala	Harnam Singh Sadh
+Lalpura	Mangal Singh	Amritsar	Sharm Singh
+Lalru	Prithi Singh	Patiala	Shadi Ram
+Lalton Khurd	Gurmukh Singh	Ludhiana	
+Lande Rode	Rattan Singh	Ferozepore	Ghumand Singh
+Langeri	Charan Singh	Hoshiarpur	Hamir Singh
+Langeri	Hazara Singh	Hoshiarpur	
+Langeri	Lachman Singh	Hoshiarpur	Lakha Singh
+Langeri	Mehr Singh	Hoshiarpur	Wazir Singh
+Langeri	Piara Singh	Hoshiarpur	Lakha Singh
+Laskhiri	Pala Singh	Amritsar	Bhagat Singh
+Leel	Gopal Singh	Ludhiana	
+Lehli Kalan	Natha Singh	Hoshiarpur	Kalu Singh
+Lil	Ralla Singh	Ludhiana	
+Lohoke	Santa Singh	Amritsar	Nihal Singh
+Mahel Gehla	Pala Singh	Jullundur	Jiwan Singh
+Mahem	Surain Singh	Jullundur	Ghasita Singh
+Mahesri	Nidhan Singh	Ferozepore	Hira Singh
+Mahilpur	Harjap Singh	Hoshiarpur	Kartar Singh
+Mahilpur	Mohan Singh	Hoshiarpur	Indar Singh
+Mahli	Samund Singh	Jullundur	Attar Singh
+Makhad	Moti Ram	Muanwali	Buta Ram Kumar
+Makhsuspur	Bhag Singh	Hoshiarpur	
+Makul	Jawala Singh	Jullundur	Ram Singh
+Malian	Bir Singh	Amritsar	
+Malian Khurd	Munsha Singh	Jullundur	Miya Singh
+Malla	Indar Singh	Ludhiana	Ala Singh
+Mananwali	Pakhar Singh	Kapurthala	Atra Singh
+Manki	"Aurang Shah, Syed"	Peshawar	
+Marhana	Sucha Singh	Amritsar	Sant Singh
+Mirankot	Mula Singh	Amritsar	Jawala Singh
+Mirhana	Jit Singh	Amritsar	Bur Singh
+Mirhans	Bisham Singh	Amritsar	Mahna Singh
+Moela Wahidpur	Salig Ram	Hoshiarpur	Mahasha Ram
+Mohi	Kapur Singh	Ludhiana	Mit Singh
+Mola	Partap Singh	Hoshiarpur	Dewa Singh
+Monko	"Mukand Lal, Pathak"	Jullundur	Pandit Gujar Ram
+Muchhal	Buta Singh	Amritsar	Lehna Singh
+Nagalian Siawala Majri	Jaimal Singh	Ambala	Mahin Singh
+Nagar	Munsha Singh	Jullundur	Indar Singh
+Nagra	Nand Singh	Jullundur	
+Nakodar	Dalip Singh	Jullundur	Roda Singh
+Nangal	Ujagar Singh	Hoshiarpur	Partab Singh
+Nangal Choran	Pal Singh	Hoshiarpur	Badhawa Singh
+Nangal Kalan	Dalip Singh	Hoshiarpur	
+Nangal Kalan	Hira SinghNangal Kalan	Hoshiarpur	Naurain Singh
+Nangal Khurd	Bachint Singh	Ludhiana	Hira Singh
+Nathowal	Bishan Singh	Ludhiana	Likal Singh
+Nathuwal	Bachittar Singh	Ludhiana	
+Nathuwala	"Kehr Singh, Gill"	Ferozepore	
+Naushera Punuan	Nanak Chand	Amritsar	Girdhari Lal
+Nawanshahr	Amar Singh	Jullundur	Uttam Singh
+Nawshera Phadana	Darbara Singh Sodhi	Lahore	
+Nihalsinghwala	Bagga Singh Daliwal	Ferozepore	
+Nurmahal	Chainchal Singh	Jullundur	Attar Singh
+Nussi	Jhaiiar Singh	Jullundur	Hira Singh
+Padhana	Charan Singh	Lahore	Tehl Singh
+Padi Sur Singh	Hazara Singh	Hoshiarpur	Sham Singh
+Pakhowal	Harnam Singh	Hoshiarpur	Jaimal Singh
+Palasaur	Kehr Singh	Amritsar	Dewa Singh
+Paldi	Chuhar Singh	Hoshiarpur	Bhola Singh
+Paldi	Duman Singh	Hoshiarpur	Attar Singh
+Paldi	Ganda Singh	Hoshiarpur	Bhulla Singh
+Paldi	Maya Singh	Hoshiarpur	Bhulla Singh
+Paldi	Ujagar Singh	Hoshiarpur	
+Pandori	Gurdev Singh Dillon	Hoshiarpur	Naranjan Singh
+Pandori	Mit Singh	Ludhiana	Ishar Singh
+Pandori	Narinjan Singh	Hoshiarpur	Partap Singh
+Pandori	Partap Singh	Ludhiana	Faujdar Singh
+Pandori Ladha Singh	Kartar Singh	Hoshiarpur	Narain Singh
+Pandori Ladha Singh	Narnam Singh	Hoshiarpur	Natha Singh
+Pandori Nijran	Harnam Singh	Jullundur	Jawaher Singh
+Phillaur	"Nand Singh, Sihra"	Jullundur	Narain Singh
+Pindori	Bela Singh	Hoshiarpur	
+Pindori	Rattan Singh	Ludhiana	Kaku Singh
+Possi	Behari Lal Verma	Hoshiarpur	Lala Kalu Mall
+Purhiran	Dalip Singh	Hoshiarpur	Diwan Singh
+Purhiran	Gurdit Singh	Hoshiarpur	Harnam Singh
+Raipur	Atma Singh	Ludhiana	Gurdit Singh
+Rajpur Doaba	Rattan Singh	Jullundur	Nihal Singh
+Rampur	Lachman Singh	Hoshiarpur	Jiwan Singh
+Rania	Waryam Singh	Ferozepore	Lal Singh
+Rodde	Sundar Singh	Ferozepore	
+Rohke	Jagan Nath Sharma	Amritsar	
+Rumi	Hans Rai	Ludhiana	Gopal Chand
+Rurka Kalan	Bachint Singh	Jullundur	Sundar Singh
+Rurka Kalan	Jawala Singh	Jullundur	Labhu Singh
+Rurka Kalan	Natha Singh	Jullundur	Bhagat Singh
+Sadda Singh Wala	Bishan Singh	Ferozepore	Hira Singh
+Sakrouli	Bawa Singh	Hoshiarpur	Partap Singh
+Sakruli	"Balmokand Shidar, Pandit"	Hoshiarpur	Munshi Ram
+Samrai	Indar Singh	Jullundur	Chajju Singh
+Samrai	Thakur Singh	Jullundur	Chajju Singh
+Sangatpur	Indar Singh	Kapurthala	Wazir Singh
+Sangowal	"Sant Ram, Mandal"	Ludhiana	Amin Chand
+Sarin	"Gujar Singh, Sathi"	Jullundur	
+Sarin	Mehr Singh	Jullundur	Nagina Singh
+Satnawar	Karta Ram	Hoshiarpur	Binddu Singh
+Shankar	Bishan Singh	Jullundur	Dewa Singh
+Shankar	Didar Singh	Jullundur	Narain Singh
+Shankar	Partap Singh	Jullundur	Indar Singh
+Shankar	Thakur Singh	Jullundur	
+Shanker	Bhagat Singh	Jullundur	Bhagwan Singh
+Shanker	Bujha Singh	Jullundur	Dit Singh
+Simli	Hakim Khan	Hoshiarpur	Mode Khan
+Sirhali Kalan	Battan Singh	Hoshiarpur	Gopal Singh
+Sirhali Kalan	Gainda Singh	Hoshiarpur	Narain Singh
+Sirhali Kalan	Indar Singh	Hoshiarpur	
+Sohian	Gopal Singh	Ludhiana	Narain Singh
+Sunam	Sher Singh	Patiala	Tehl Singh
+Sursingh	Gurdit Singh	Lahore	Gurmukh Singh
+Sursingh	Indar Singh	Lahore	Mula Singh
+Sursingh	Shamsher Singh	Lahore	Bhai Bakhshish Singh
+Takhanwad	"Narain Singh, Khaira"	Ferozepore	Waryam Singh
+Tappa	Mangal Singh	Amritsar	
+Tatgarh	Kesar Singh Thathgarh-Baba	Amritsar	Bhup Singh
+Thala	Sham Singh	Jullundue	Raja Singh
+Thandian	Harnam Singh	Jullundur	Wazir Singh
+Thatian	Jawala Singh	Amritsar	Kanhya Singh
+Thikriwala	Narain Singh	Patiala	Mahna Singh
+Tibba	Bhagat Singh	Kapurthala	Natha Singh
+Toosa	Jogindar Singh	Ludhiana	Waryam Singh
+Toosa	Nagindar Singh	Ludhiana	Hira Singh
+Tuto Majra	Indar Singh	Hoshiarpur	Kahan Singh
+Tuto Majra	"Jagat Singh, Mann"	Hoshiarpur	
+Udhowal	Ralla Singh	Jullundur	Khem Singh
+Ujla	"Bishan Singh, Giani"	Ujla	
+Uppal	Bhag Singh	Jullundur	Attar Singh
+Vainpon	Sher Singh	Amritsar	Kesar Singh
+Wardha	Pandurang Sadashio Khankhoji	Wardha	Sadashio Khankhoji
+	Amar Chand
+	Amar Singh Nihang
+	"Bachan Singh, Teja"
+	Badan Singh Dalelsingh Wala-Bhai
+	Balwant Singh
+	Bhaan Singh Sunet
+	Bhagwan Singh Dosanjh-Baba
+	Bhai Parmanand
+	Budh Singh
+	G.D. Verma
+	Gurdit Singh-Baba
+	Hari Singh Sundh
+	Harnam Singh Tundilat
+	Harnam Singh-Baba
+	Jaswant Singh
+	"Jawala Singh, Aujla"
+	"Kapur Singh, Birdi"
+	Karam Singh
+	Karam Singh-Baba
+	Karim Bakhsh
+	Kartar Singh Sarabha
+	Lala Hardyal
+	Lala Thaker Das
+	Madan Singh
+	Mangal Singh
+	Meva Singh Lopoke-Bhai
+	Moulvi Barkat Ullah
+	Munshi Ram
+	Nagingar Singh
+	Natha Singh
+	Nidhan Singh Chugha
+	Partap Singh
+	Prem Singh
+	Puran Singh
+	"Raghbir Singh, Bans"
+	Ramchand
+	"Randhir Singh, Sandhu"
+	Rattan Singh
+	Rehmat Ali
+	Sampuran Singh
+	Santokh Singh
+	Surat Singh
+	Tarak Nath Das
+	Teja Singh Sutantar
+	Udham Singh Kasel
+	V.G. Pingle
+	Waisakha Singh-Baba
